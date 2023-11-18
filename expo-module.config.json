@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["ExpoZxingModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.zxing.ExpoZxingModule"]
+  }
+}
