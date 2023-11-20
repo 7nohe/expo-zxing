@@ -1,7 +1,7 @@
 {
   "name": "expo-zxing",
   "version": "0.1.0",
-  "description": "My new module",
+  "description": "ZXing module for Expo",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -19,13 +19,16 @@
     "react-native",
     "expo",
     "expo-zxing",
-    "ExpoZxing"
+    "ExpoZxing",
+    "ZXing",
+    "QRCode",
+    "Barcode"
   ],
   "repository": "https://github.com/7nohe/expo-zxing",
   "bugs": {
     "url": "https://github.com/7nohe/expo-zxing/issues"
   },
-  "author": "7nohe <7nohe.urata@gmail.com> (https://github.com/7nohe)",
+  "author": "7nohe (https://github.com/7nohe)",
   "license": "MIT",
   "homepage": "https://github.com/7nohe/expo-zxing#readme",
   "dependencies": {},
